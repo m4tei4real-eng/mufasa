@@ -1,0 +1,29 @@
+button{
+    height: 20px;
+    width: 70px;
+    background-color:greenyellow;
+    border-radius: 20px;
+    border-color: navajowhite;
+}
+
+#cat{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+#dog{
+    background-color:red;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+#cow{
+    background-color:black;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+
